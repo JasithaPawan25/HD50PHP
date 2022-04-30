@@ -1,0 +1,125 @@
+header{
+    width: 90%;
+    height: 60px;
+    color: aqua;
+    border: cadetblue 2px;
+    background-color: crimson;
+    margin-left: 65px;
+    }*/
+
+   nav{
+
+        width: 90%;
+        height: 60px;
+        color: rgb(0, 17, 255);
+        border: rgb(14, 20, 20) 2px;
+        background-color: rgb(24, 126, 87);
+        margin-left: 65px;
+
+    }
+    #ulone {
+        list-style-type: none;
+        margin-left: 200px;
+        
+        }
+
+        #ulone li {
+            float: left;
+            margin-top: -0px;
+            margin-left: 6px;
+            }
+        
+        #ulone li a{
+            padding-top: 4px;
+            text-decoration: none;
+            display: block;
+            width:auto;
+            height: 47px;
+            color: #EBDFDF;
+            border: thin rgba(89,89,89,0.5);
+            font-size: 2em;
+            border-radius: 4px 4px 4px 4px;
+            
+              }
+              
+        #btnlout{
+            margin-left: 50px;
+            margin-top: 25px;
+            float: left;
+
+
+
+        }  
+        
+        aside{
+            width: 30%;
+            margin-top: 20px;
+            margin-left: 65px;
+            border: double lightslategrey 3px;
+            float: left;
+
+        }
+        
+
+        main{
+
+            width: 63.7%;
+            margin-left: 10px;
+            margin-top: 20px;
+            border: double lightslategrey 3px;
+            float: left;
+            margin-bottom: 3px;
+        }
+
+        table, th , td
+        {
+            width: auto;
+            border: 1px solid teal;
+            word-wrap:break-word;
+        }
+
+
+
+footer
+{
+	width: 90%;
+	height: 110px;
+	background-color: rgba(89,89,89,0.5);
+	margin-left: 65px;
+	margin-top: -10px;
+}
+
+#twt{
+	width: 40px;
+	height: 40px;
+	margin-left: 505px;
+	margin-top: 10px;
+	border-radius: 10px ;
+	}
+
+#fb{
+	width: 40px;
+	height: 40px;
+	margin-left: 7px;
+	border-radius: 10px;
+	}
+
+#rights{
+	/*width: 44%;
+	height: 40px;*/
+	margin-left: 344px;
+	margin-top: 30px;
+	font-size: 1.4em;
+	font-weight: 200;
+	color:rgba(0,0,0,1.00);
+	/*background-color: aquamarine;*/
+	}
+
+#cc {
+	margin-left: 478px;
+	margin-top: -45px;
+	color: rgba(0,0,0,1.00);
+	/*background-color: aquamarine;*/
+	}
+    
+        
